@@ -10,7 +10,10 @@ body{
     background-image:url("https://media.istockphoto.com/photos/and-2022-on-black-alarm-clock-on-wooden-table-with-copy-space-merry-picture-id1316403473"); 
     min-height: 100vh;
     background-size: cover;
-    
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+
     font-family: "Poppins", sans-serif;
     margin: 0;
 
