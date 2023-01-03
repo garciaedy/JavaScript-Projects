@@ -34,3 +34,16 @@ h2{
     padding-bottom: 20px;
     position: relative;
 }
+
+.form-control label{
+    color: cornsilk;
+    display: block ;
+    margin-bottom: 5px;
+}
+
+.form-control input{
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+}
